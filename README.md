@@ -22,7 +22,8 @@
   <a href="https://www.instagram.com/hubert_maximus/"><img height="32px" width="32px" alt="Instagram" title="Instagram" src="https://imgur.com/fYLq4kn.png"/></a>
 </p>
 
-<h3 align="left" style="font-family: 'Source Code Pro', monospace; ">🏢&nbsp;What am I working on?</h3>
+<h3 align="left" style="font-family: 'Source Code Pro', monospace; ">💭&nbsp;What am I Working on?</h3>
+
 
 <p align="left">I’m currently a <kbd>volunteer</kbd> at <kbd>One Community Global</kbd>, while actively seeking full time opportunities in Software Engineering roles within the United States. </p>
 <h4>Check them out here: </h4>
@@ -41,7 +42,7 @@
 <h3 style="font-family: 'Source Code Pro', monospace; font-size: 20px">🛠️ My Favorite Tools:</h3> 
 
 
-<h4>Programming Languages:</h4>
+<h5>📃 Programming Languages:</h5>
 <p align="left">
   <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" style="height: 25">
   <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white" style="height: 25">
@@ -55,7 +56,7 @@
   <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" style="height: 25">
 </p>
 
-<h4>Frontend:</h4>
+<h5>📈 Frontend:</h5>
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" style="height: 25">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" style="height: 25">
@@ -65,7 +66,7 @@
   <img alt="Nextjs" src="https://img.shields.io/badge/Next-000000.svg?logo=next.js&logoColor=white" style="height: 25">
 </p>
 
-<h4>Backend:</h4>
+<h5>🚀 Backend:</h5>
 <p align="left">
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" style="height: 25">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" style="height: 25">
@@ -76,7 +77,7 @@
   <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=RabbitMQ&logoColor=white" style="height: 25">
 </p>
 
-<h4>AI/ML:</h4>
+<h5>🤖 AI/ML:</h5>
 <p align="left">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" style="height: 25">
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white" style="height: 25">
@@ -84,7 +85,7 @@
   <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?logo=tensorflow&logoColor=white" style="height: 25">
 </p>
 
-<h4>Databases & Cloud:</h4>
+<h5>💾 Databases & Cloud:</h5>
 <p align="left">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white" style="height: 25">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=MySQL&logoColor=white" style="height: 25">
@@ -96,13 +97,13 @@
 </p>
 
 
-<h4>Testing:</h4>
+<h5>🧪 Testing:</h5>
 <p align="left">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=Jest&logoColor=white" style="height: 25">
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=Selenium&logoColor=white" style="height: 25">
 </p>
 
-<h4>Software & Tools:</h4>
+<h5>🧰 Software & Tools:</h5>
 <p align="left">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white" style="height: 25">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white" style="height: 25">
