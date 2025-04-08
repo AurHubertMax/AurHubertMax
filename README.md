@@ -17,7 +17,7 @@
 <p align="center">
   <a href="mailto:ahubertmax@gmail.com"><img height="32px" width="32px" alt="Gmail" title="Gmail" src="https://imgur.com/8EKNbBR.png" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img height="32px" width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/sUC8p3j.png"/></a>
+  <a href="https://www.linkedin.com/in/aurelianohubertmaximus/"><img height="32px" width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/sUC8p3j.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/hubert_maximus/"><img height="32px" width="32px" alt="Instagram" title="Instagram" src="https://imgur.com/fYLq4kn.png"/></a>
 </p>
