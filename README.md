@@ -25,7 +25,7 @@
 <h3 align="left" style="font-family: 'Source Code Pro', monospace; ">💭&nbsp;What am I Working on?</h3>
 
 
-<p align="left">I’m currently a <kbd>volunteer</kbd> at <kbd>One Community Global</kbd>, while actively seeking full time opportunities in Software Engineering roles within the United States. </p>
+<p align="left">I’m currently a <kbd>Software Engineer & Customer Success Director</kbd> at <kbd>PopBookings</kbd></p>
 <h4>Check them out here: </h4>
 <p align="left">
     <a href="https://onecommunityglobal.org/" target="blank">
